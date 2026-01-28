@@ -3,5 +3,5 @@
 
 **highlights:** 
 
--  Specializing:  React, Python, Spark, Flutter, Dart, JavaScript, TypeScript, Docker, AWS, FastMCP, FastAPI, Firebase, Supabase, Node, MongoDB, Prisma, Drizzle, SQL (Postgres, SQLite, MySQL), HTML, CSS, Git
+-  Specializing:  React, Python, Flutter, Dart, JavaScript, TypeScript, Docker, AWS, FastMCP, FastAPI, Firebase, Supabase, Node, MongoDB, Prisma, Drizzle, SQL (Postgres, SQLite, MySQL), HTML, CSS, Git
 
