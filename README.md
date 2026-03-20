@@ -1,7 +1,10 @@
-### I’ll admit: my handwriting’s a mess. But I write better code than letters, and I’m always erasing, fixing, and rewriting until it works.
+### I’ll admit my handwriting’s a mess. But I write better code than letters, and I’m always erasing, fixing, and rewriting until it works.
 
 
-**highlights:** 
+**specializing in:**
 
--  Specializing in:  React, Python, Flutter, Dart, JavaScript, TypeScript, Docker, AWS, FastMCP, FastAPI, Firebase, Supabase, Node, MongoDB, Prisma, Drizzle, SQL (Postgres, SQLite, MySQL), HTML, CSS, Git
+**Frontend:** React, Flutter, HTML, CSS, TypeScript, JavaScript  
+**Backend:** Node.js, FastAPI, Python  
+**Databases / AI:** SQL (Postgres, SQLite, MySQL), MongoDB, Firebase, Supabase, LLMs, Vector DBs, RAG pipelines  
+**AI / ML:** Python, TensorFlow, PyTorch, scikit-learn, OpenAI API, Hugging Face
 
